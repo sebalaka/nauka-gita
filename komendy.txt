@@ -1,0 +1,8 @@
+npm install --save-dev html-validate
+
+npm run test(zaleznie jak to sobie zdefinujemy)
+
+
+npm install --save-dev autoprefixer-cli
+
+autoprefixer-cli -o css/style.prefixed.css css/style.css

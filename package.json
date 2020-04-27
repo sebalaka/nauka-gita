@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/sebalaka/nauka-gita#readme",
   "devDependencies": {
-    "browser-sync": "^2.26.7"
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.26.7",
+    "html-validate": "^2.21.0"
   }
 }
